@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Olakeys19/social-links-profile-main.git)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://olakeys19.github.io/social-links-profile-main/)
 
 ## My process
 
