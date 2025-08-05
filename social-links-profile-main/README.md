@@ -35,8 +35,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
--
 
 ## Author
 
-- Frontend Mentor - [@OLakeys19](https://www.frontendmentor.io/profile/olakeys19)
+- Frontend Mentor - [@Olakeys19](https://www.frontendmentor.io/profile/olakeys19)
